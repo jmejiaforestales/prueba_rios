@@ -27,7 +27,7 @@ Deprecated==1.2.12
 wrapt==1.12.1
 jsonfield==3.1.0
 jsonschema==3.2.0
-pyrsistent==0.17.3
+pyrsistent==0.18.1
 zipstream-new==1.1.8
 schema==0.7.5
 smart_open==5.2.1
