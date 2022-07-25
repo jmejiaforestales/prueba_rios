@@ -130,7 +130,7 @@ timeout-decorator==0.5.0
 
 # required by monitoring
 psutil==5.8.0
-django-cors-headers==3.7.0
+django-cors-headers==3.13.0
 user-agents
 django-user-agents
 xmljson
