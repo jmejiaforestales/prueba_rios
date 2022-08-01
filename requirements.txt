@@ -158,7 +158,7 @@ pytest-django==4.4.0
 setuptools==60.9.3
 pip==22.0.4
 Twisted==21.2.0
-pixelmatch==0.2.3
+pixelmatch==0.3.0
 factory-boy==3.2.0
 flaky==3.7.0
 selenium==3.141.0
