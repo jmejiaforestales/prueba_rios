@@ -153,7 +153,7 @@ flake8==3.9.2
 pytest==6.2.4
 pytest-bdd==4.0.2
 splinter==0.14.0
-pytest-splinter==3.3.1
+pytest-splinter==3.3.2
 pytest-django==4.4.0
 setuptools==60.9.3
 pip==22.0.4
