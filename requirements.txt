@@ -19,7 +19,7 @@ decorator==5.0.9
 celery==5.1.2
 kombu==5.1.0
 pylibmc==1.6.1
-sherlock==0.3.2
+sherlock==0.4.0
 vine==5.0.0
 boto3==1.17.97
 tqdm==4.61.1
