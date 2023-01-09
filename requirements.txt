@@ -54,7 +54,7 @@ django-grappelli==2.15.1
 django-uuid-upload-path==1.0.0
 django-widget-tweaks==1.4.8
 oauthlib==3.2.0
-pyopenssl==22.0.0
+pyopenssl==23.0.0
 
 # geopython dependencies
 pyproj==3.3.0
